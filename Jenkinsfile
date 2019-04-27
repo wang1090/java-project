@@ -1,5 +1,5 @@
 node('linux'){
   stage('Test'){
-    echo 'Hello World!'
+    echo 'Hello World!!'
   }
 }
