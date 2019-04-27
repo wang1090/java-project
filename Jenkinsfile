@@ -1,1 +1,5 @@
-wang1
+node('linux'){
+  stage('Test'){
+    echo 'Hello World'
+  }
+}
